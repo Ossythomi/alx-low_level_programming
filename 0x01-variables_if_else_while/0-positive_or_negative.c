@@ -1,10 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+
 /**
  * main - program entry point
- * Return:0-no erroe,non zero value if error.
- **/
+ *
+ * Return: Always 0 (Success)
+ */
+
 int main(void)
 {
 	int n;
