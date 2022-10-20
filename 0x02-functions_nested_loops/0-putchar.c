@@ -2,7 +2,6 @@
 
 /**
  * main - print _putchar
- * is written by ossythomi
  * Return: 0
  */
 
